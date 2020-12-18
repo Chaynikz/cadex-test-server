@@ -1,0 +1,13 @@
+{
+  "name": "cadex-test-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Chaynikz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "three": "^0.123.0"
+  }
+}
